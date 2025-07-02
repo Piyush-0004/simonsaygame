@@ -16,12 +16,11 @@
 
 ##  Tech Stack
 
-| Part      | Tech Used                              |
-| --------- | -------------------------------------- |
-| Markup    | HTML5                                  |
-| Styling   | CSS3                                   |
-| Logic     | Vanilla JavaScript                     |
-| Fonts/SFX | Google Fonts, custom sounds (optional) |
+* **Markup**: HTML5
+
+* **Styling**: CSS3
+
+* **Logic**: Vanilla JavaScript
 
 
 ##  Getting Started
@@ -29,7 +28,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/simon-says.git
+git clone https://github.com/Piyush-0004/simonsaygame.git
 cd simon-says
 ```
 
